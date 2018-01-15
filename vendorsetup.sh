@@ -14,6 +14,7 @@ add_lunch_combo pa_zl1-userdebug
 add_lunch_combo pa_gts210ltexx-userdebug
 add_lunch_combo pa_gts210wifi-userdebug
 add_lunch_combo pa_hero2lte-userdebug
+add_lunch_combo pa_herolte-userdebug
 
 # AOSP
 add_lunch_combo pa_angler-userdebug

@@ -27,6 +27,7 @@
     PRODUCT_MAKEFILES += \
     $(LOCAL_DIR)/gts210ltexx/pa_gts210ltexx.mk \
     $(LOCAL_DIR)/hero2lte/pa_hero2lte.mk \
+    $(LOCAL_DIR)/herolte/pa_herolte.mk \
     $(LOCAL_DIR)/gts210wifi/pa_gts210wifi.mk
 
 # AOSP
